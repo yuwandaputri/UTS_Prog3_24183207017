@@ -5,6 +5,7 @@ NPM : 24183207017
 Proyek ini menggunakan Variabel Global dan Lokal, String dan Integer, Implementasi GUI Component (JList, JTextArea, JTextField), JButton.
 Variabel Lokal : menu, jumlah, harga
 Variabel Global : keranjangPesanan, totalHarga
+
 Tampilan Aplikasi 
 1. No. Meja untuk mengisi nomor tempat duduk
 2. Pemesan untuk mengisi nama pelanggan
